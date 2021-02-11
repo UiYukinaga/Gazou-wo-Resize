@@ -1,6 +1,8 @@
 # Gazou-wo-Resize
 JPEGなどの静止画ファイルをリサイズするPythonコードです。
 
+このコードの実行には，別途OpenCVが必要です。
+インストールされていない場合は別途，OpenCV-Pythonをインストールしてください。
 
 |Python Name|機能|
 |:---|:---|
